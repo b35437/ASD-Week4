@@ -1,0 +1,10 @@
+{
+  "env": {
+    "local": {
+      "db": "http://127.0.0.1:5984/equipmentapp"
+    },
+    "cloudant": {
+      "db": "https://nbyarleyd:asheron007@nbyarleyd.cloudant.com/equipmentapp"
+    }
+  }
+}
